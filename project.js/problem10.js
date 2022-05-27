@@ -16,4 +16,4 @@ for(let k=0;k<arr.length;k++){
     final.push(arr[k])
   }
 }
-console.lo(final)
+console.log(final)
